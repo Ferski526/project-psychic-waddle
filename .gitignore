@@ -12,3 +12,7 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content/Levels/Level_1_BuiltData.uasset
+Content/Levels/Level_2_BuiltData.uasset
+Content/Levels/Level_3_BuiltData.uasset
+Content/Levels/Level_4_BuiltData.uasset
